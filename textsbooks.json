@@ -1,0 +1,46 @@
+{
+  "bookLists": [
+    {
+      "id": 1,
+      "tittle": "The God's Must Be Crazy",
+      "author": "Chinua Achebe",
+      "pages": 256
+    },
+    {
+      "id": 2,
+      "tittle": "Half Of A Yellow Sun",
+      "author": "Chimuamanda Adichie",
+      "pages": 207
+    },
+    {
+      "id": 3,
+      "tittle": "Mocking Birds",
+      "author": "Scott Parker",
+      "pages": 237
+    },
+    {
+      "tittle": "Into The Bad Land",
+      "author": "Glen Willis",
+      "pages": 337,
+      "id": 4
+    },
+    {
+      "id": 6,
+      "tittle": "The Lord Of The Rings",
+      "author": "Peter Pan",
+      "pages": 216
+    },
+    {
+      "id": 7,
+      "tittle": "The Philosopher's Stone",
+      "author": "J.K Rowlings",
+      "pages": 523
+    },
+    {
+      "id": 8,
+      "tittle": "The Falling Heroes",
+      "author": "Darwin Johnson",
+      "pages": 437
+    }
+  ]
+}
